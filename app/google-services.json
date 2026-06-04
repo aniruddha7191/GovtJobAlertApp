@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973537712348",
+    "project_id": "govt-job-alert-aaafe",
+    "storage_bucket": "govt-job-alert-aaafe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973537712348:android:bb3e8d8c814ae28664fc19",
+        "android_client_info": {
+          "package_name": "com.govtjobalert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApzesqGjWAC4otY4ZFsBWGRu-FRmYtkW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
